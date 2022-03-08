@@ -1,0 +1,2 @@
+# COMP551---Miniproject-2
+In this miniproject you will implement naive Bayes and K-fold cross-validation from scratch, while using logistic (softmax) regression from scikit-learn package (or optionally implemented from scratch) – and compare these two algorithms on two distinct textual datasets. The goal is to gain experience implementing these algorithms from scratch and to get hands-on experience comparing performance of different models.
